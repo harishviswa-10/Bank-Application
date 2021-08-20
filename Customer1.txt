@@ -1,0 +1,8 @@
+
+--Account Statement--
+--Name-Harish--
+Account No-101--
+Customer Id-1--
+TransId  TransType  Amount  Balance
+----------------------------------------
+1  Opening Account  10000  10000
