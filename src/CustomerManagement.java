@@ -96,7 +96,7 @@ public class CustomerManagement {
 				trans_id=c.getCustId();
 				balance2=c.getBalance()+d;
 				c.setBalance(balance2);
-				log2=" Transfer From "+trans_acc+"  "+d+"  "+balance2;
+				log2="  Transfer From "+trans_acc+"  "+d+"  "+balance2;
 			}
 		}
 		System.out.println("Amount transferred successfully.");

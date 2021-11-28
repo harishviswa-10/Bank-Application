@@ -1,7 +1,0 @@
---Account Statement--
---Name-Kowsic--
-Account No-202--
-Customer Id-2--
-TransId  TransType  Amount  Balance
-----------------------------------------
-1  Opening Account  10000  10000
